@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": true,
+    "name": "zFPS-script",
+    "author": "<font color='#FDD017'>AOC 2020</font>",
+    "description": "==",
+    "version": "<font color='#FC0FC0'>GF-100.02</font>",
+    "options": {
+        "niceName": "zFPS-script",
+        "guiName": "<font color='#FDD017'>zFPS-script</font>"
+    }
+}
